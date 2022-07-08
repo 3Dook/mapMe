@@ -1,0 +1,36 @@
+.header{
+    padding: 1.5rem 10px;
+
+/*     color: #ffff; */
+}
+
+.logo {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.icon {
+    height: 100%;
+    width: 5.5rem;
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.mapSpace {
+    border: 1px solid black;
+    height: 70vh;
+}
