@@ -8,20 +8,10 @@ const sidebarData = [
         cName: 'nav-text'
     },
     {
-        title: 'SIGN UP',
-        path: '/signup',
+        title: 'Add Location',
+        path: '/location',
         cName: 'nav-text'
     },
-    {
-        title: 'SCORE',
-        path: '/score',
-/*         icon: < IoHammerOutline />, */
-        cName: 'nav-text'
-    },
-/*     {
-        title: 'adminDELETE',
-        path: '/dddMaster'
-    } */
     {
         title: 'ABOUT',
         path: '/about'

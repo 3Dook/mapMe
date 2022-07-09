@@ -1,7 +1,7 @@
 import React, {useEffect, useState } from "react";
 import { BsGem } from 'react-icons/bs';
 import './header.css';
-
+import NavBar from "./navbar";
 
 const Header = () => {
 
@@ -22,10 +22,7 @@ const Header = () => {
                     </h1>
                 </div>
             </div>
-            <div>
-                NavBar
-                
-            </div>
+            <NavBar/>
         </div>
 
     )
